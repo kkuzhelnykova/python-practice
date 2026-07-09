@@ -19,8 +19,8 @@ python-practice/
 
 | # | Problem | Difficulty | Approach Used | Date |
 |---|---------|------------|---------------|------|
-| 1 | Two Sum | Easy | Dictionary / hashmap | |
-| 2 | Valid Palindrome | Easy | Two pointers / string reverse | |
+| 1 | Two Sum | Easy | Dictionary / hashmap | 7/7/2026|
+| 2 | Valid Palindrome | Easy | Two pointers / string reverse | 7/8/2026|
 | 3 | Contains Duplicate | Easy | Set | |
 | 4 | Best Time to Buy and Sell Stock | Easy | Single pass / min tracking | |
 
