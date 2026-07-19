@@ -23,6 +23,7 @@ python-practice/
 | 2 | Valid Palindrome | Easy | Two pointers / string reverse | 7/8/2026|
 | 3 | Contains Duplicate | Easy | Set | |
 | 4 | Best Time to Buy and Sell Stock | Easy | Single pass / min tracking | |
+| 5 | Roman to Integer | Easy | hasmap / string | 7/19/2026 |
 
 ## Mini Projects
 
